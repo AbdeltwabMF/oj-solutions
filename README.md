@@ -21,6 +21,7 @@
 - [300. Longest Increasing Subsequence (LeetCode)](LeetCode/300.longest-increasing-subsequence.cpp)
 - [516. Longest Palindromic Subsequence (LeetCode)](LeetCode/516.longest-palindromic-subsequence_dp.cpp)
 - [322. Coin Change (LeetCode)](LeetCode/322.coin-change.cpp)
+- [10626. Buying Coke (UVa)](UVa/10626.buying-coke.cpp)
 
 
 ## Geometry
