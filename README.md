@@ -16,6 +16,9 @@
 
 ## Dynamic Programming
 
+- [516. Longest Palindromic Subsequence (LeetCode)](LeetCode/516.longest-palindromic-subsequence_dp.cpp)
+- [5. Longest palindromic Substring (LeetCode)](LeetCode/5.longest-palindromic-substring_dp.cpp)
+
 ## Geometry
 
 ## Graph Theory
